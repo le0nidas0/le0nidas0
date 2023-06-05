@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @le0nidas0
+- 👋 Hi, I’m Leonidas
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
