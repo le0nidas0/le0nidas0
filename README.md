@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Leonidas
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leonidasmoreira098@gmail.com
+#Leonidas Santos Moreira
 
-<!---
-le0nidas0/le0nidas0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonidas-moreira-/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/le0nidas0)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=le0nidas0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=le0nidas0&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+- 📫 How to reach me leonidasmoreira098@gmail.com
+ 
