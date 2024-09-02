@@ -1,7 +1,6 @@
 
 
 - <h1 align="center">Hi 👋, I'm Leonidas Moreira</h1>
-<h3 align="center">a Computer Science student at Tiradentes University with a focus on backend development in Java. I'm currently diving into Spring.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
